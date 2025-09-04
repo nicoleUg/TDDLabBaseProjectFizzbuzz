@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "13e11a4afad8465dbd7a644de61cd65cf89ff99e",
     "author": "nicoleUg",
     "commit": {
       "date": "2025-09-04T09:00:20.000Z",
       "message": "test(fizzbuzz): caso base 1 -> '1' (rojo)",
-      "url": "https://github.com/nicoleUg/TDDLabBaseProjectFizzbuzz/commit/HEAD"
+      "url": "https://github.com/nicoleUg/TDDLabBaseProjectFizzbuzz/commit/13e11a4afad8465dbd7a644de61cd65cf89ff99e"
     },
     "stats": {
       "total": 7,
@@ -17,5 +17,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nicoleUg",
+    "commit": {
+      "date": "2025-09-04T09:02:45.000Z",
+      "message": "feat(fizzbuzz): convertir número a string (verde)",
+      "url": "https://github.com/nicoleUg/TDDLabBaseProjectFizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
