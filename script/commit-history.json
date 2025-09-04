@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0c96bbb5bd939c997de3eb35731fb3a30a0b7084",
     "author": "nicoleUg",
     "commit": {
       "date": "2025-09-04T09:14:42.000Z",
       "message": "feat(fizzbuzz): generar array y string de FizzBuzz hasta n",
-      "url": "https://github.com/nicoleUg/TDDLabBaseProjectFizzbuzz/commit/HEAD"
+      "url": "https://github.com/nicoleUg/TDDLabBaseProjectFizzbuzz/commit/0c96bbb5bd939c997de3eb35731fb3a30a0b7084"
     },
     "stats": {
       "total": 24,
       "additions": 24,
       "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nicoleUg",
+    "commit": {
+      "date": "2025-09-04T09:21:54.000Z",
+      "message": "feat(ui): formulario FizzBuzz con presenter",
+      "url": "https://github.com/nicoleUg/TDDLabBaseProjectFizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 15,
+      "deletions": 24,
       "date": "2025-09-04"
     },
     "coverage": 100,
